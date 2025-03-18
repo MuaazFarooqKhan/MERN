@@ -28,7 +28,7 @@ export const Contact = () => {
 
     console.log(contact);
   };
-  
+
   return (
     <>
       <section className="section-contact">
@@ -103,5 +103,6 @@ export const Contact = () => {
         </section>
       </section>
     </>
+    
   );
 };
