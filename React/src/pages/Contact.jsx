@@ -28,9 +28,7 @@ export const Contact = () => {
 
     console.log(contact);
   };
-
-  //  Help me reach 1 Million subs 👉 https://youtube.com/thapatechnical
-
+  
   return (
     <>
       <section className="section-contact">

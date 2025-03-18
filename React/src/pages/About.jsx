@@ -8,8 +8,6 @@ export const About = () => {
         <section className="section-hero">
           <div className="container grid grid-two-cols">
             <div className="hero-content">
-              {/* <p>We care to cure your Health</p> */}
-
               <h1>Why Choose Us? </h1>
               <p>
                 Expertise: Our team consists of experienced IT professionals who
