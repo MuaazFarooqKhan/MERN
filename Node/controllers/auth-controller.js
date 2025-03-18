@@ -14,7 +14,6 @@ const home = async (req, res) => {
       console.log(error);
     }
   };
-  
   // *-------------------
   // Registration Logic
   // *-------------------
